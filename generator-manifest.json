@@ -1,0 +1,18 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "Change Remote Control Code",
+  "description_recipe": "Change Remote Control Code",
+  "history_source_dir": "GigaBlueRemote",
+  "internal_package_name": "enigma2-plugin-systemplugins-remotecontrolcode",
+  "module_dir_name": "GigaBlueRemote",
+  "output_subdir": "GigaBlueRemote",
+  "package_name": "enigma2-plugin-systemplugins-remotecontrolcode-giga-blue-remote",
+  "plugin_src_rel": "GigaBlueRemote",
+  "python_package": "GigaBlueRemote",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "GigaBlueRemote",
+  "rrecommends": "",
+  "rreplaces": ""
+}

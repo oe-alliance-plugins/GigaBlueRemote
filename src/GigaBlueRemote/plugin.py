@@ -4,7 +4,7 @@ from . import _
 
 from Screens.Screen import Screen
 from Components.ConfigList import ConfigListScreen
-from Components.config import config, configfile, getConfigListEntry, ConfigSubsection, ConfigSelection, ConfigYesNo
+from Components.config import config, configfile, getConfigListEntry, ConfigSubsection, ConfigSelection
 from Components.ActionMap import ActionMap
 from Screens.MessageBox import MessageBox
 from Components.Sources.StaticText import StaticText
@@ -16,7 +16,7 @@ try:
 	IMAGEDISTRO = BoxInfo.getItem("distro")
 	MACHINEBUILD = BoxInfo.getItem("model")
 	MODEL = BoxInfo.getItem("machinebuild")
-except:
+except ImportError:
 	from boxbranding import getImageDistro, getMachineBuild, getBoxType
 	IMAGEDISTRO = getImageDistro()
 	MACHINEBUILD = getMachineBuild()

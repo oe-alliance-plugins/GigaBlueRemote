@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-03 14:48+0100\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2025-01-20 12:49+0800\n"
 "Last-Translator: Mark Stone <Mark@kram.com>\n"
 "Language-Team: \n"
@@ -18,43 +18,51 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.5\n"
 
-#, python-format
-msgid " within %d seconds."
-msgstr "在 %d 秒内。"
-
+#: ../plugin.py:76 ../plugin.py:126
 msgid "Cancel"
 msgstr "取消"
 
+#: ../plugin.py:27
 msgid "Code 1"
 msgstr "代码 1"
 
+#: ../plugin.py:27
 msgid "Code 2"
 msgstr "代码 2"
 
+#: ../plugin.py:126
 msgid "Confirm"
 msgstr "确认"
 
+#: ../plugin.py:104
 msgid "FILE DOES NOT EXIST : /proc/stb/ir/rc/customcode"
 msgstr "文件不存在： /proc/stb/ir/rc/customcode"
 
+#: ../plugin.py:106
 msgid "Please change now the mode on your RCU."
 msgstr "请立即更改遥控器上的模式。"
 
+#: ../plugin.py:106
 msgid "Press and hold 'GIGA' & '5' for 5 seconds."
 msgstr "按住“GIGA”键和“5”键 5 秒钟。"
 
+#: ../plugin.py:65 ../plugin.py:144 ../plugin.py:150
 msgid "Remote Control Code"
 msgstr "遥控器代码"
 
+#: ../plugin.py:92
 msgid "Remote Control Code:"
 msgstr "遥控器代码："
 
+#: ../plugin.py:77
 msgid "Save"
 msgstr "保存"
 
+#: ../plugin.py:88
 #, python-format
 msgid "Sorry, but %s is not supported."
 msgstr "抱歉，但不支持 %s。"
 
+#: ../plugin.py:106
 msgid "Then choose 'Confirm' "
 msgstr "然后选择“确认”"

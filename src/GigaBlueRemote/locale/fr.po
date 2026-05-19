@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-23 15:20+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2018-07-30 21:47+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -18,43 +18,51 @@ msgstr ""
 "X-Generator: Poedit 2.1.1\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#, python-format
-msgid " within %d seconds."
-msgstr " endéans %d secondes."
-
+#: ../plugin.py:76 ../plugin.py:126
 msgid "Cancel"
 msgstr "Annuler"
 
+#: ../plugin.py:27
 msgid "Code 1"
 msgstr ""
 
+#: ../plugin.py:27
 msgid "Code 2"
 msgstr ""
 
+#: ../plugin.py:126
 msgid "Confirm"
 msgstr "Confirmer"
 
+#: ../plugin.py:104
 msgid "FILE DOES NOT EXIST : /proc/stb/ir/rc/customcode"
 msgstr "FICHIER N'EXISTE PAS : /proc/stb/ir/rc/customcode"
 
+#: ../plugin.py:106
 msgid "Please change now the mode on your RCU."
 msgstr "Veuillez changer maintenant le mode de votre télécommande."
 
+#: ../plugin.py:106
 msgid "Press and hold 'GIGA' & '5' for 5 seconds."
 msgstr "Appuyez sur 'GIGA' & '5' pendant 5 secondes."
 
+#: ../plugin.py:65 ../plugin.py:144 ../plugin.py:150
 msgid "Remote Control Code"
 msgstr "Code de la télécommande"
 
+#: ../plugin.py:92
 msgid "Remote Control Code:"
 msgstr "Code de la commande à distance :"
 
+#: ../plugin.py:77
 msgid "Save"
 msgstr "Sauver"
 
+#: ../plugin.py:88
 #, python-format
 msgid "Sorry, but %s is not supported."
 msgstr "Désolé, mais %s n'est pas supporté."
 
+#: ../plugin.py:106
 msgid "Then choose 'Confirm' "
 msgstr "Ensuite, choisissez 'Confirmer'."

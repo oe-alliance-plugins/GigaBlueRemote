@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plugins 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 19:01+0430\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2021-06-11 01:31+0300\n"
 "Last-Translator: Tomppaa <http://www.huoltovalikko.com/>\n"
 "Language-Team: none\n"
@@ -13,43 +13,51 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.0\n"
 
-#, python-format
-msgid " within %d seconds."
-msgstr " sekunnin %d kuluessa."
-
+#: ../plugin.py:76 ../plugin.py:126
 msgid "Cancel"
 msgstr "Peruuta"
 
+#: ../plugin.py:27
 msgid "Code 1"
 msgstr "Koodi 1"
 
+#: ../plugin.py:27
 msgid "Code 2"
 msgstr "Koodi 2"
 
+#: ../plugin.py:126
 msgid "Confirm"
 msgstr "Vahvista"
 
+#: ../plugin.py:104
 msgid "FILE DOES NOT EXIST : /proc/stb/ir/rc/customcode"
 msgstr "TIEDOSTOA EI OLE : /proc/stb/ir/rc/customcode"
 
+#: ../plugin.py:106
 msgid "Please change now the mode on your RCU."
 msgstr "Vaihda kaukosäätimen koodaus nyt."
 
+#: ../plugin.py:106
 msgid "Press and hold 'GIGA' & '5' for 5 seconds."
 msgstr "Pidä 'GIGA' & '5' painettuna 5 sekunnin ajan."
 
+#: ../plugin.py:65 ../plugin.py:144 ../plugin.py:150
 msgid "Remote Control Code"
 msgstr "Kaukosäätimen koodi"
 
+#: ../plugin.py:92
 msgid "Remote Control Code:"
 msgstr "Kaukosäätimen koodi:"
 
+#: ../plugin.py:77
 msgid "Save"
 msgstr "Tallenna"
 
+#: ../plugin.py:88
 #, python-format
 msgid "Sorry, but %s is not supported."
 msgstr "Valitettavasti %s ei ole tuettu."
 
+#: ../plugin.py:106
 msgid "Then choose 'Confirm' "
 msgstr "Valitse sitten `Vahvista` "

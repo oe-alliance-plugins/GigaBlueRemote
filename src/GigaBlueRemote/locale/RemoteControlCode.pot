@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the RemoteControlCode package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: RemoteControlCode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-03 14:48+0100\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,43 +17,51 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#, python-format
-msgid " within %d seconds."
-msgstr ""
-
+#: ../plugin.py:76 ../plugin.py:126
 msgid "Cancel"
 msgstr ""
 
+#: ../plugin.py:27
 msgid "Code 1"
 msgstr ""
 
+#: ../plugin.py:27
 msgid "Code 2"
 msgstr ""
 
+#: ../plugin.py:126
 msgid "Confirm"
 msgstr ""
 
+#: ../plugin.py:104
 msgid "FILE DOES NOT EXIST : /proc/stb/ir/rc/customcode"
 msgstr ""
 
+#: ../plugin.py:106
 msgid "Please change now the mode on your RCU."
 msgstr ""
 
+#: ../plugin.py:106
 msgid "Press and hold 'GIGA' & '5' for 5 seconds."
 msgstr ""
 
+#: ../plugin.py:65 ../plugin.py:144 ../plugin.py:150
 msgid "Remote Control Code"
 msgstr ""
 
+#: ../plugin.py:92
 msgid "Remote Control Code:"
 msgstr ""
 
+#: ../plugin.py:77
 msgid "Save"
 msgstr ""
 
+#: ../plugin.py:88
 #, python-format
 msgid "Sorry, but %s is not supported."
 msgstr ""
 
+#: ../plugin.py:106
 msgid "Then choose 'Confirm' "
 msgstr ""
